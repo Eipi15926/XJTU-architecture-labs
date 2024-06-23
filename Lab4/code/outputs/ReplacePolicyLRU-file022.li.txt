@@ -1,0 +1,436 @@
+ReplacePolicyLRU-file022.li
+8KB:
+ 16B 	4.44%		6.64%		10.12%		17.56%
+ 32B 	3.64%		5.41%		8.01%		13.97%
+ 64B 	3.39%		5.07%		7.33%		12.55%
+ 128B 	3.89%		5.64%		8.54%		15.20%
+
+16KB:
+ 16B 	2.55%		4.10%		5.30%		8.78%
+ 32B 	1.99%		3.41%		4.30%		7.04%
+ 64B 	1.78%		3.19%		3.86%		6.11%
+ 128B 	1.84%		3.62%		4.17%		6.50%
+
+32KB:
+ 16B 	1.92%		1.94%		2.73%		3.79%
+ 32B 	1.53%		1.47%		2.25%		3.03%
+ 64B 	1.38%		1.22%		2.03%		2.75%
+ 128B 	1.42%		1.22%		2.21%		3.19%
+
+64KB:
+ 16B 	0.91%		1.40%		1.19%		1.62%
+ 32B 	0.62%		1.09%		0.87%		1.38%
+ 64B 	0.50%		0.92%		0.63%		1.19%
+ 128B 	0.44%		0.84%		0.64%		1.43%
+
+
+
+The size of Cache is 8KB, the size of each cache block is 16B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.95%, writing missing rate is 8.69%.
+The missing rate is: 4.44%.
+
+The size of Cache is 8KB, the size of each cache block is 16B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 6.17%, writing missing rate is 10.81%.
+The missing rate is: 6.64%.
+
+The size of Cache is 8KB, the size of each cache block is 16B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 9.83%, writing missing rate is 12.59%.
+The missing rate is: 10.12%.
+
+The size of Cache is 8KB, the size of each cache block is 16B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 17.65%, writing missing rate is 16.75%.
+The missing rate is: 17.56%.
+
+The size of Cache is 8KB, the size of each cache block is 32B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.33%, writing missing rate is 6.34%.
+The missing rate is: 3.64%.
+
+The size of Cache is 8KB, the size of each cache block is 32B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 5.14%, writing missing rate is 7.75%.
+The missing rate is: 5.41%.
+
+The size of Cache is 8KB, the size of each cache block is 32B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 7.87%, writing missing rate is 9.26%.
+The missing rate is: 8.01%.
+
+The size of Cache is 8KB, the size of each cache block is 32B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 13.96%, writing missing rate is 14.06%.
+The missing rate is: 13.97%.
+
+The size of Cache is 8KB, the size of each cache block is 64B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.13%, writing missing rate is 5.75%.
+The missing rate is: 3.39%.
+
+The size of Cache is 8KB, the size of each cache block is 64B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 4.86%, writing missing rate is 6.85%.
+The missing rate is: 5.07%.
+
+The size of Cache is 8KB, the size of each cache block is 64B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 7.23%, writing missing rate is 8.16%.
+The missing rate is: 7.33%.
+
+The size of Cache is 8KB, the size of each cache block is 64B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 12.40%, writing missing rate is 13.80%.
+The missing rate is: 12.55%.
+
+The size of Cache is 8KB, the size of each cache block is 128B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.60%, writing missing rate is 6.43%.
+The missing rate is: 3.89%.
+
+The size of Cache is 8KB, the size of each cache block is 128B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 5.39%, writing missing rate is 7.87%.
+The missing rate is: 5.64%.
+
+The size of Cache is 8KB, the size of each cache block is 128B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 8.30%, writing missing rate is 10.65%.
+The missing rate is: 8.54%.
+
+The size of Cache is 8KB, the size of each cache block is 128B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 14.49%, writing missing rate is 21.44%.
+The missing rate is: 15.20%.
+
+The size of Cache is 16KB, the size of each cache block is 16B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.13%, writing missing rate is 6.17%.
+The missing rate is: 2.55%.
+
+The size of Cache is 16KB, the size of each cache block is 16B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.65%, writing missing rate is 8.05%.
+The missing rate is: 4.10%.
+
+The size of Cache is 16KB, the size of each cache block is 16B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 4.90%, writing missing rate is 8.87%.
+The missing rate is: 5.30%.
+
+The size of Cache is 16KB, the size of each cache block is 16B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 8.56%, writing missing rate is 10.74%.
+The missing rate is: 8.78%.
+
+The size of Cache is 16KB, the size of each cache block is 32B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.74%, writing missing rate is 4.17%.
+The missing rate is: 1.99%.
+
+The size of Cache is 16KB, the size of each cache block is 32B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.12%, writing missing rate is 5.94%.
+The missing rate is: 3.41%.
+
+The size of Cache is 16KB, the size of each cache block is 32B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 4.08%, writing missing rate is 6.25%.
+The missing rate is: 4.30%.
+
+The size of Cache is 16KB, the size of each cache block is 32B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 6.95%, writing missing rate is 7.84%.
+The missing rate is: 7.04%.
+
+The size of Cache is 16KB, the size of each cache block is 64B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.58%, writing missing rate is 3.53%.
+The missing rate is: 1.78%.
+
+The size of Cache is 16KB, the size of each cache block is 64B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.94%, writing missing rate is 5.30%.
+The missing rate is: 3.19%.
+
+The size of Cache is 16KB, the size of each cache block is 64B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.74%, writing missing rate is 4.98%.
+The missing rate is: 3.86%.
+
+The size of Cache is 16KB, the size of each cache block is 64B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 6.06%, writing missing rate is 6.52%.
+The missing rate is: 6.11%.
+
+The size of Cache is 16KB, the size of each cache block is 128B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.65%, writing missing rate is 3.51%.
+The missing rate is: 1.84%.
+
+The size of Cache is 16KB, the size of each cache block is 128B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.38%, writing missing rate is 5.70%.
+The missing rate is: 3.62%.
+
+The size of Cache is 16KB, the size of each cache block is 128B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 4.02%, writing missing rate is 5.45%.
+The missing rate is: 4.17%.
+
+The size of Cache is 16KB, the size of each cache block is 128B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 6.47%, writing missing rate is 6.76%.
+The missing rate is: 6.50%.
+
+The size of Cache is 32KB, the size of each cache block is 16B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.56%, writing missing rate is 5.10%.
+The missing rate is: 1.92%.
+
+The size of Cache is 32KB, the size of each cache block is 16B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.60%, writing missing rate is 4.93%.
+The missing rate is: 1.94%.
+
+The size of Cache is 32KB, the size of each cache block is 16B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.33%, writing missing rate is 6.20%.
+The missing rate is: 2.73%.
+
+The size of Cache is 32KB, the size of each cache block is 16B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.36%, writing missing rate is 7.48%.
+The missing rate is: 3.79%.
+
+The size of Cache is 32KB, the size of each cache block is 32B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.32%, writing missing rate is 3.38%.
+The missing rate is: 1.53%.
+
+The size of Cache is 32KB, the size of each cache block is 32B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.28%, writing missing rate is 3.12%.
+The missing rate is: 1.47%.
+
+The size of Cache is 32KB, the size of each cache block is 32B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.00%, writing missing rate is 4.49%.
+The missing rate is: 2.25%.
+
+The size of Cache is 32KB, the size of each cache block is 32B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.78%, writing missing rate is 5.24%.
+The missing rate is: 3.03%.
+
+The size of Cache is 32KB, the size of each cache block is 64B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.22%, writing missing rate is 2.81%.
+The missing rate is: 1.38%.
+
+The size of Cache is 32KB, the size of each cache block is 64B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.11%, writing missing rate is 2.21%.
+The missing rate is: 1.22%.
+
+The size of Cache is 32KB, the size of each cache block is 64B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.85%, writing missing rate is 3.61%.
+The missing rate is: 2.03%.
+
+The size of Cache is 32KB, the size of each cache block is 64B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.57%, writing missing rate is 4.29%.
+The missing rate is: 2.75%.
+
+The size of Cache is 32KB, the size of each cache block is 128B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.27%, writing missing rate is 2.79%.
+The missing rate is: 1.42%.
+
+The size of Cache is 32KB, the size of each cache block is 128B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.13%, writing missing rate is 1.96%.
+The missing rate is: 1.22%.
+
+The size of Cache is 32KB, the size of each cache block is 128B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 2.08%, writing missing rate is 3.41%.
+The missing rate is: 2.21%.
+
+The size of Cache is 32KB, the size of each cache block is 128B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 3.06%, writing missing rate is 4.32%.
+The missing rate is: 3.19%.
+
+The size of Cache is 64KB, the size of each cache block is 16B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.58%, writing missing rate is 3.77%.
+The missing rate is: 0.91%.
+
+The size of Cache is 64KB, the size of each cache block is 16B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.11%, writing missing rate is 3.97%.
+The missing rate is: 1.40%.
+
+The size of Cache is 64KB, the size of each cache block is 16B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.90%, writing missing rate is 3.74%.
+The missing rate is: 1.19%.
+
+The size of Cache is 64KB, the size of each cache block is 16B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.31%, writing missing rate is 4.38%.
+The missing rate is: 1.62%.
+
+The size of Cache is 64KB, the size of each cache block is 32B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.43%, writing missing rate is 2.31%.
+The missing rate is: 0.62%.
+
+The size of Cache is 64KB, the size of each cache block is 32B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.93%, writing missing rate is 2.52%.
+The missing rate is: 1.09%.
+
+The size of Cache is 64KB, the size of each cache block is 32B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.71%, writing missing rate is 2.24%.
+The missing rate is: 0.87%.
+
+The size of Cache is 64KB, the size of each cache block is 32B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.17%, writing missing rate is 3.22%.
+The missing rate is: 1.38%.
+
+The size of Cache is 64KB, the size of each cache block is 64B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.37%, writing missing rate is 1.63%.
+The missing rate is: 0.50%.
+
+The size of Cache is 64KB, the size of each cache block is 64B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.82%, writing missing rate is 1.74%.
+The missing rate is: 0.92%.
+
+The size of Cache is 64KB, the size of each cache block is 64B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.54%, writing missing rate is 1.43%.
+The missing rate is: 0.63%.
+
+The size of Cache is 64KB, the size of each cache block is 64B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.02%, writing missing rate is 2.68%.
+The missing rate is: 1.19%.
+
+The size of Cache is 64KB, the size of each cache block is 128B, and the associativity of cache is 1.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.35%, writing missing rate is 1.24%.
+The missing rate is: 0.44%.
+
+The size of Cache is 64KB, the size of each cache block is 128B, and the associativity of cache is 2.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.78%, writing missing rate is 1.33%.
+The missing rate is: 0.84%.
+
+The size of Cache is 64KB, the size of each cache block is 128B, and the associativity of cache is 4.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 0.60%, writing missing rate is 0.96%.
+The missing rate is: 0.64%.
+
+The size of Cache is 64KB, the size of each cache block is 128B, and the associativity of cache is 8.
+Cache replacement policies is LRU.
+There are 1000003 requests in total. 102350 cache blocks were written and 897653 cache blocks were read
+Reading miss rate is 1.28%, writing missing rate is 2.76%.
+The missing rate is: 1.43%.
+
+
+
+8KB:
+ 16B 	(1.15%, 0.00%, 98.85%)		(0.77%, 0.00%, 99.23%)		(0.51%, 0.00%, 99.49%)		(0.29%, 0.00%, 99.71%)
+ 32B 	(0.70%, 0.00%, 99.30%)		(0.47%, 0.00%, 99.53%)		(0.32%, 0.00%, 99.68%)		(0.18%, 0.00%, 99.82%)
+ 64B 	(0.38%, 0.00%, 99.62%)		(0.25%, 0.00%, 99.75%)		(0.17%, 0.00%, 99.83%)		(0.10%, 0.00%, 99.90%)
+ 128B 	(0.16%, 0.00%, 99.84%)		(0.11%, 0.00%, 99.89%)		(0.07%, 0.00%, 99.93%)		(0.04%, 0.00%, 99.96%)
+
+16KB:
+ 16B 	(4.02%, 0.00%, 95.98%)		(2.50%, 0.00%, 97.50%)		(1.93%, 0.00%, 98.07%)		(1.17%, 0.00%, 98.83%)
+ 32B 	(2.57%, 0.00%, 97.43%)		(1.50%, 0.00%, 98.50%)		(1.19%, 0.00%, 98.81%)		(0.73%, 0.00%, 99.27%)
+ 64B 	(1.44%, 0.00%, 98.56%)		(0.80%, 0.00%, 99.20%)		(0.66%, 0.00%, 99.34%)		(0.42%, 0.00%, 99.58%)
+ 128B 	(0.70%, 0.00%, 99.30%)		(0.35%, 0.00%, 99.65%)		(0.31%, 0.00%, 99.69%)		(0.20%, 0.00%, 99.80%)
+
+32KB:
+ 16B 	(8.94%, 0.00%, 91.06%)		(10.43%, 0.00%, 89.57%)		(7.50%, 0.00%, 92.50%)		(5.41%, 0.00%, 94.59%)
+ 32B 	(5.76%, 0.00%, 94.24%)		(6.92%, 0.00%, 93.08%)		(4.54%, 0.00%, 95.46%)		(3.38%, 0.00%, 96.62%)
+ 64B 	(3.36%, 0.00%, 96.64%)		(4.19%, 0.00%, 95.81%)		(2.53%, 0.00%, 97.47%)		(1.86%, 0.00%, 98.14%)
+ 128B 	(1.68%, 0.00%, 98.32%)		(2.10%, 0.00%, 97.90%)		(1.16%, 0.00%, 98.84%)		(0.80%, 0.00%, 99.20%)
+
+64KB:
+ 16B 	(32.15%, 0.00%, 67.85%)		(21.94%, 0.00%, 78.06%)		(29.84%, 0.00%, 70.16%)		(23.05%, 0.00%, 76.95%)
+ 32B 	(24.41%, 0.00%, 75.59%)		(14.53%, 0.00%, 85.47%)		(21.05%, 0.00%, 78.95%)		(13.97%, 0.00%, 86.03%)
+ 64B 	(15.94%, 0.00%, 84.06%)		(9.15%, 0.00%, 90.85%)		(15.08%, 0.00%, 84.92%)		(8.35%, 0.00%, 91.65%)
+ 128B 	(9.28%, 0.00%, 90.72%)		(5.19%, 0.00%, 94.81%)		(7.66%, 0.00%, 92.34%)		(3.53%, 0.00%, 96.47%)
